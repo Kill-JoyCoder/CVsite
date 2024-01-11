@@ -1,0 +1,35 @@
+/*header {
+    background-image: none(); 
+    color :rgb(64, 60, 60);
+}*/
+
+h1     {
+    text-align: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2     {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    padding: 0.5%;
+}
+
+h3     {
+    font-size: "30"; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    
+}
+
+
+
+ul     {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    
+    background-image: linear-gradient( #c58c47 , #91ade5,  #c58c47 )
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
